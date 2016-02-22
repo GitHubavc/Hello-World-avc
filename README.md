@@ -3,5 +3,6 @@ The first Repository
 
 
 Hi guys,
-I made the following change,Plase bare with me.
+I made the following change,Please bare with me.
+I also made a new Branch called "new amit"
 
